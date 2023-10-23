@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Fi, a content designer 💻🍲🥡
+## I'm Fi, a content designer 💻🍲🥡
 
 I have a passion for words and technology
 
