@@ -2,7 +2,7 @@
 
 I'm Fi, a content designer 💻🍲🥡
 
-I have a passion for words and technology
+I have a passion for **words** and technology
 
 My current side project is learning Python so I can experiment with AI language models 
 
