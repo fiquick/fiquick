@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Fi, a content designer 💻🍲🥡
+I'm Fi, a content designer / UX writer / I did a bit of content writing and in a past life marketing 💻🍲🥡
+I'd like to learn more about coding so I can help to create things, and hopefully teach ladies, because I would have loved to have found an IT mentor too earlier.
+Coding takes some work - and I'm trying to put in the time and do a learning journal too :) 
 
 I have a passion for words and technology
 
