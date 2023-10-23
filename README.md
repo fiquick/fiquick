@@ -14,4 +14,4 @@ My current side project is learning Python so I can experiment with AI language 
 
 [Email 📬](mailto:fiquicktech@gmail.com)
 
-[](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BYSOnUT7RFzGYw_TndlxNw.png)
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BYSOnUT7RFzGYw_TndlxNw.png)
