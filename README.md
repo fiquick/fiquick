@@ -4,7 +4,7 @@ I'm Fi, a content designer 💻🍲🥡
 
 I have a passion for **words** and technology
 
-My current side project is learning Python so I can experiment with AI language models 
+My current side project is learning Python
 
 [LinkedIn 💼](https://www.linkedin.com/in/fi-quick-0975685a/)
 
