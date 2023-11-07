@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Fi, a writer 💻🍲🥡
+I'm Fi, a writer 💻
 
-I have a passion for words and technology
+I have a passion for words and technology.
 
 My current side project is learning Python
 
