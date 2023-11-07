@@ -4,7 +4,7 @@ I'm Fi, a writer 💻
 
 I have a passion for words and technology.
 
-My current side project is learning Python
+My current side project is learning Python.
 
 [LinkedIn 💼](https://www.linkedin.com/in/fi-quick-0975685a/)
 
