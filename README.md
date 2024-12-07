@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Fi, a writer 💻
+I'm Fi.
 
 I have a passion for words and technology.
 
